@@ -141,5 +141,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+datasets/fashiontryon/*
 datasets/fashiontryon/../*
 datasets/fashiontryon/../../*
+datasets/fashiontryon/0/mask.jpg
+examples/TestDreamBooth/*
+examples/TestDreamBooth/GEN/gen_res.png
+datasets/traindata.tar.gz
+checkpoints/dinov2_vitg14_pretrain.pth

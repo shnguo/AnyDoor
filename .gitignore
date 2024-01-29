@@ -141,5 +141,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-datasets/fashiontron/../*
-datasets/fashiontron/../../*
+datasets/fashiontryon/../*
+datasets/fashiontryon/../../*
